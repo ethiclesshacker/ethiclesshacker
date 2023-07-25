@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethiclesshacker
-- 👀 I’m interested in Computer Science and Ethical Hacking 💻
-- 🌱 I’m currently studying B. Sc Computer Science 
+- 👀 I’m interested in Computer Science, Full-Stack Web Development and Ethical Hacking 💻
+- 🌱 I’m currently studying M. Sc Computer Science in St. Xavier's College, Kolkata.
 - 📫 You can reach me at mailingadityavs@gmail.com
 
 <!---
